@@ -1,0 +1,21 @@
+{
+  "name": "slim-diff",
+  "version": "0.0.1",
+  "authors": [
+    "Ralph von der Heyden <ralph@rvdh.de>"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "diff"
+  ],
+  "license": "MIT",
+  "homepage": "https://gist.github.com/ralph/f2977941e0847c829f76",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
