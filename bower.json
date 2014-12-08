@@ -9,7 +9,7 @@
     "diff"
   ],
   "license": "MIT",
-  "homepage": "https://gist.github.com/ralph/f2977941e0847c829f76",
+  "homepage": "http://github.com/ralph/slim-diff",
   "private": true,
   "ignore": [
     "**/.*",
